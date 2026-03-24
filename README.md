@@ -24,7 +24,7 @@ EmployeeManagementSystem/
 ├── Main.java
 ⚙️ How to Run
 Clone the repository:
-git clone https://github.com/your-username/employee-management-system.git
+git clone https://github.com/santoshchau143/employee-management-system.git
 Open the project in any IDE (IntelliJ / Eclipse / VS Code)
 Compile and run:
 javac Main.java
