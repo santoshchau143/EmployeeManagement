@@ -47,11 +47,7 @@ Method Design
 🖼️ Add GUI using Java Swing
 🌐 Convert into Web Application
 🔐 Add Login Authentication
-📄 Project Report
 
-You can find the detailed project report in this repository:
-
-Employee_Management_System_Report.pdf
 🙋‍♂️ Author
 
 Santosh Chaudhary
